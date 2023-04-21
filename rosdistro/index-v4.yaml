@@ -1,0 +1,13 @@
+%YAML 1.1
+# ROS index file
+# see REP 153: http://ros.org/reps/rep-0153.html
+---
+distributions:
+  noetic:
+    distribution: ["https://raw.githubusercontent.com/jmirabel/ros_buildfarm_config/main/rosdistro/noetic/distribution.yaml"]
+    distribution_cache: "https://raw.githubusercontent.com/jmirabel/ros_buildfarm_config/main/rosdistro/noetic/noetic-cache.yaml.gz"
+    distribution_status: active
+    distribution_type: ros1
+    python_version: 3
+type: index
+version: 4
